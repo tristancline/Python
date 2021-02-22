@@ -1,0 +1,3 @@
+print("This is my new GitHub account.")
+echoCode = input("Tell me something you want me to repeat: ")
+print(echoCode)
